@@ -1,6 +1,6 @@
 # **Email 1: Requesting an Extension**
 
-Subject: Extension Request: Digital Literacy Project - Prateek Kumar (25MIM10214)
+Subject: Extension Request: Digital Literacy Project - Harshwardhan Choudhary
 
 Dear Professor,
 
@@ -10,18 +10,16 @@ I apologize for any inconvenience this may cause and appreciate your considerati
 
 Best regards,
 
-Prateek Kumar Integrated Mtech AI, 1st Year
-
-Registration No: 25MIM10214
+Harshwardhan Choudhary, 1st Year
 
 VIT Bhopal University
 
 # **Email 2: Internship Inquiry**
-Subject: Internship Inquiry - Prateek Kumar - VIT Bhopal
+Subject: Internship Inquiry - Harshwardhan Choudhary - VIT Bhopal
 
 Dear Internship Coordinator,
 
-I am a first-year Integrated Mtech student specializing in Artificial Intelligence at VIT Bhopal University. I am writing to express my strong interest in a summer internship opportunity with your company’s technical team.
+I am a first-year Integrated Mtech student specializing in AI and Bioinformatics at VIT Bhopal University. I am writing to express my strong interest in a summer internship opportunity with your company’s technical team.
 
 I have a growing interest in AI automation, n8n workflows, and Python-based solutions. I would welcome the chance to contribute to your projects while learning from your experienced engineers. Please find my profile details and GitHub portfolio attached for your review.
 
@@ -29,6 +27,6 @@ Thank you for your time and I look forward to hearing from you.
 
 Sincerely,
 
-Prateek Kumar Integrated Mtech AI, 1st Year
+Harshwardhan Choudhary, 1st Year
 
 VIT Bhopal University
